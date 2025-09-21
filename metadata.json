@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI SOC Dashboard",
+  "description": "A role-based Security Operations Center (SOC) dashboard that combines real-time threat intelligence, alerts, and AI-driven insights for analysts, managers, and CISOs.",
+  "requestFramePermissions": []
+}
